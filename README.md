@@ -208,7 +208,3 @@ Flutter & React Native apps with cloud backend.
 </div>
 
 <br/>
-
-<p align="center">
-  Made with 💙 in a Dark Glassmorphic Style
-</p>
