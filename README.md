@@ -135,37 +135,6 @@
      backdrop-filter: blur(10px);
 ">
 
-## 🚀 Featured Projects
-
-<table align="center">
-<tr>
-
-<td align="center" style="padding: 15px;">
-<img height="110" src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/120/external-forest-fire-natural-disaster-flatart-icons-outline-flatarticons.png"/>
-<br/><br/>
-<b>Forest Fire Prediction</b><br/>
-ConvLSTM + U-Net model using satellite data.
-</td>
-
-<td align="center" style="padding: 15px;">
-<img height="110" src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/120/external-web-development-web-design-and-development-flatart-icons-outline-flatarticons.png"/>
-<br/><br/>
-<b>Full Stack Website</b><br/>
-Modern UI, APIs, dashboard analytics.
-</td>
-
-<td align="center" style="padding: 15px;">
-<img height="110" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/120/external-mobile-app-mobile-app-development-flaticons-lineal-color-flat-icons.png"/>
-<br/><br/>
-<b>Mobile App Development</b><br/>
-Flutter & React Native apps with cloud backend.
-</td>
-
-</tr>
-</table>
-
-</div>
-
 <br/>
 
 <!-- GITHUB STATS CARD -->
