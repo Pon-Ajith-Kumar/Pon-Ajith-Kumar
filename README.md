@@ -9,10 +9,10 @@
 ">
 
 <h1>
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&color=38BDF8&lines=Hi+There!+👋;+I'm+Pon+Ajith+Kumar+P!" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=650&height=70&duration=4000&color=38BDF8&lines=Hi+There!+👋;+I'm+Pon+Ajith+Kumar+P!;+Machine+Learning+%7C+Deep+Learning" />
 </h1>
 
-<h3>Junior IT Undergrad • College of Engineering Guindy</h3>
+<h3>Machine Learning & Deep Learning • B.Tech IT @ College of Engineering Guindy</h3>
 
 </div>
 
@@ -33,10 +33,11 @@
 
 <p align="left">
 
-🧠 Learning : **Machine Learning, Deep Learning**  
-🌍 Building : **Full-stack Websites & Mobile Apps**  
-🤝 Open to  : **Collaboration on Real-world Projects**  
-💬 Ask me about: **MERN Stack, React Native, Machine Learning**  
+🧠 Focused on : **Machine Learning, Deep Learning, Computer Vision**  
+📊 Working with : **Large-scale & Real-world Data**  
+🌍 Interests : **AI for Scientific & Real-world Applications**  
+⚙️ Building : **End-to-End Systems (ML + Web + Deployment)**  
+🤝 Open to : **Research, Internships & Collaboration**  
 
 </p>
 
@@ -56,7 +57,7 @@
 ">
 
 ### 📫 Connect with me  
-<a href="mailto:ponajithkumar2005@gmail.com">
+<a href="mailto:ponajithkumar05@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-18181B?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
 </a>
 <a href="https://linkedin.com/in/ponajithkumar2005">
@@ -154,7 +155,7 @@
 <!-- Stats Centered -->
 <div align="center" style="margin-bottom: 20px;">
   <img 
-       src="https://github-readme-stats.vercel.app/api?username=pon-ajith-kumar-p&show_icons=true&theme=tokyonight" 
+       src="https://github-readme-stats.vercel.app/api?username=Pon-Ajith-Kumar&show_icons=true&theme=tokyonight" 
        height="200"
        style="max-width: 100%;"
   />
@@ -163,7 +164,7 @@
 <!-- Streaks Centered -->
 <div align="center" style="margin-bottom: 20px;">
   <img 
-       src="https://streak-stats.demolab.com/?user=pon-ajith-kumar-p&theme=tokyonight" 
+       src="https://streak-stats.demolab.com/?user=Pon-Ajith-Kumar&theme=tokyonight" 
        height="200"
        style="max-width: 100%;"
   />
@@ -171,7 +172,7 @@
 
 <!-- Dark-themed activity graph -->
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pon-ajith-kumar-p&theme=react-dark&bg_color=0D1117&color=38BDF8&line=38BDF8&point=1E90FF&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pon-Ajith-Kumar&theme=react-dark&bg_color=0D1117&color=38BDF8&line=38BDF8&point=1E90FF&area=true&hide_border=true" width="100%"/>
 </div>
 
 </div>
