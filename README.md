@@ -172,7 +172,7 @@
 
 <!-- Dark-themed activity graph -->
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pon-Ajith-Kumar&theme=react-dark&bg_color=0D1117&color=38BDF8&line=38BDF8&point=1E90FF&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pon-Ajith-Kumar&theme=rogue&bg_color=0D1117&color=38BDF8&line=38BDF8&point=1E90FF&area=true&hide_border=true" width="100%"/>
 </div>
 
 </div>
